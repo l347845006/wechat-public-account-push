@@ -7,22 +7,22 @@ export const config = {
     // 模板消息id
     templateId: "yt6fePuRHgl_-XIi5Kk2s6RULli2hdZ9kqvD-BChxnk",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: ["oCe-Z5kTUv0-YuXcqjmd3GE26AFM","oCe-Z5skxqbBtS5D5IL2qmngio2c","oCe-Z5pXa-PS3NzS2NL3ZBnMM8BI"],
+    user: ["oCe-Z5kTUv0-YuXcqjmd3GE26AFM", "oCe-Z5skxqbBtS5D5IL2qmngio2c", "oCe-Z5pXa-PS3NzS2NL3ZBnMM8BI"],
      
     // 信息配置
     // 所在省份
-    province: "广东",
+    province: "江苏",
     // 所在城市
-    city: "惠州",
+    city: "南京",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "老婆", "year": "1993", "date": "12-27", "type": 'new'},
-      {"name": "家公", "year": "1993", "date": "08-09", "type": 'new'},
+      {"name": "婵婵", "year": "1996", "date": "03-26", "type": 'new'},
+      {"name": "湫梓", "year": "1993", "date": "03-15", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2015-05-01",
+    loveDate: "2022-05-06",
     // 结婚纪念日
-    marryDate: "2020-01-04"
+    marryDate: "2020-05-06"
     }
 
 // {{date.DATA}}  
