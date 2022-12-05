@@ -11,18 +11,18 @@ export const config = {
      
     // 信息配置
     // 所在省份
-    province: "江苏",
+    province: "山西",
     // 所在城市
-    city: "徐州",
+    city: "朔州",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "老婆", "year": "1996", "date": "03-26", " r": 'new'},
+      {"name": "老婆", "year": "1996", "date": "07-12", " r": 'new'},
       {"name": "老公", "year": "1993", "date": "03-15", " r": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2022-05-06",
+    loveDate: "2022-11-15",
     // 相识纪念日
-    marryDate: "2022-04-13"
+    marryDate: "2018-06-13"
     }
 
 // {{date.DATA}}  
