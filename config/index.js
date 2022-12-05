@@ -16,8 +16,8 @@ export const config = {
     city: "朔州",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "老婆", "year": "1996", "date": "07-12", " r": 'new'},
-      {"name": "老公", "year": "1993", "date": "03-15", " r": 'new'},
+      {"name": "宝儿", "year": "1996", "date": "07-12", " r": 'new'},
+      {"name": "宝宝", "year": "1993", "date": "03-15", " r": 'new'},
     ],
     // 在一起的日子，格式同上
     loveDate: "2022-11-15",
